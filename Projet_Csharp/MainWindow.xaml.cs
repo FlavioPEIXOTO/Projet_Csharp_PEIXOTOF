@@ -56,7 +56,10 @@ namespace Projet_Csharp
 
                 if (text_adapt.Count > 6)
                 {
-                    text_adapt.Insert(6, "\n");
+                    if (i == 6)
+                    {
+                        text_adapt.Insert(6, "\n");
+                    }
                 }
             }
             text_after_adapt = "";
