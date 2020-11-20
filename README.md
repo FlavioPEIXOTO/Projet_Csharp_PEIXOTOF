@@ -16,3 +16,7 @@ le nom de votre fichier par celui voulu
 Comment l'utiliser :
 Au lancement du programme, appuyer sur le bouton "lire" permettra de lancer 
 la lecture des sous-titres ainsi que leurs affichages tout en jouant la vidéo.
+
+(Pour lire le code de lancement de la lecture et l'affichage des sous-titres
+il faut : click droit sur MainWindow.xaml puis "afficher le code",
+le fichier Srt.cs correspond au stockage des infos du .srt)
