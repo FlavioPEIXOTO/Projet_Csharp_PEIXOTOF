@@ -1,0 +1,35 @@
+﻿<Window x:Class="Projet_Csharp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projet_Csharp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="700">
+
+    <!--Bordure sur toute la page-->
+    <Border Padding="10" BorderThickness="1" Background="BurlyWood">
+        <Grid>
+
+            <!-- Ecran lancement vidéo -->
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <MediaElement Source="http://hubblesource.stsci.edu/sources/video/clips/details/images/hst_1.mpg" LoadedBehavior="Manual" Name="myOptions" />
+
+            <!-- Colomne contenant les sous-titres et les boutons-->
+            <StackPanel Grid.Row="1">
+                <Label Name="labelText" Content="--" HorizontalContentAlignment="Center" Margin="5"/>
+                <WrapPanel HorizontalAlignment="Center">
+                    <Slider Width="100" HorizontalAlignment="Left"/>
+                </WrapPanel>
+                <WrapPanel HorizontalAlignment="Center">
+                    <Button Margin="0 0 10 0" Name ="btnPlay" Click="ClickPlay">Lire</Button>
+                    <Button Name="btnPause" Click="ClickPause">Pause</Button>
+                    <Button Margin="10 0 0 0" Name="btnStop" Click="ClickStop">Stop</Button>
+                </WrapPanel>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

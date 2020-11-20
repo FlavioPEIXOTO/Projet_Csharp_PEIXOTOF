@@ -1,0 +1,45 @@
+C:\Users\flavi\Documents\Architecture_Logicielle\Projet_Csharp\Projet_Csharp\bin\Debug\Projet_Csharp.exe.config
+C:\Users\flavi\Documents\Architecture_Logicielle\Projet_Csharp\Projet_Csharp\bin\Debug\Projet_Csharp.exe
+C:\Users\flavi\Documents\Architecture_Logicielle\Projet_Csharp\Projet_Csharp\bin\Debug\Projet_Csharp.pdb
+C:\Users\flavi\Documents\Architecture_Logicielle\Projet_Csharp\Projet_Csharp\obj\Debug\Projet_Csharp.csprojAssemblyReference.cache
+C:\Users\flavi\Documents\Architecture_Logicielle\Projet_Csharp\Projet_Csharp\obj\Debug\MainWindow.g.cs
+C:\Users\flavi\Documents\Architecture_Logicielle\Projet_Csharp\Projet_Csharp\obj\Debug\App.g.cs
+C:\Users\flavi\Documents\Architecture_Logicielle\Projet_Csharp\Projet_Csharp\obj\Debug\Projet_Csharp_MarkupCompile.cache
+C:\Users\flavi\Documents\Architecture_Logicielle\Projet_Csharp\Projet_Csharp\obj\Debug\Projet_Csharp_MarkupCompile.lref
+C:\Users\flavi\Documents\Architecture_Logicielle\Projet_Csharp\Projet_Csharp\obj\Debug\MainWindow.baml
+C:\Users\flavi\Documents\Architecture_Logicielle\Projet_Csharp\Projet_Csharp\obj\Debug\Projet_Csharp.g.resources
+C:\Users\flavi\Documents\Architecture_Logicielle\Projet_Csharp\Projet_Csharp\obj\Debug\Projet_Csharp.Properties.Resources.resources
+C:\Users\flavi\Documents\Architecture_Logicielle\Projet_Csharp\Projet_Csharp\obj\Debug\Projet_Csharp.csproj.GenerateResource.cache
+C:\Users\flavi\Documents\Architecture_Logicielle\Projet_Csharp\Projet_Csharp\obj\Debug\Projet_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Documents\Architecture_Logicielle\Projet_Csharp\Projet_Csharp\obj\Debug\Projet_Csharp.exe
+C:\Users\flavi\Documents\Architecture_Logicielle\Projet_Csharp\Projet_Csharp\obj\Debug\Projet_Csharp.pdb
+C:\Users\flavi\Desktop\Nouveau dossier\Projet_Csharp\bin\Debug\Projet_Csharp.exe.config
+C:\Users\flavi\Desktop\Nouveau dossier\Projet_Csharp\bin\Debug\Projet_Csharp.exe
+C:\Users\flavi\Desktop\Nouveau dossier\Projet_Csharp\bin\Debug\Projet_Csharp.pdb
+C:\Users\flavi\Desktop\Nouveau dossier\Projet_Csharp\obj\Debug\Projet_Csharp.csprojAssemblyReference.cache
+C:\Users\flavi\Desktop\Nouveau dossier\Projet_Csharp\obj\Debug\MainWindow.g.cs
+C:\Users\flavi\Desktop\Nouveau dossier\Projet_Csharp\obj\Debug\App.g.cs
+C:\Users\flavi\Desktop\Nouveau dossier\Projet_Csharp\obj\Debug\Projet_Csharp_MarkupCompile.cache
+C:\Users\flavi\Desktop\Nouveau dossier\Projet_Csharp\obj\Debug\Projet_Csharp_MarkupCompile.lref
+C:\Users\flavi\Desktop\Nouveau dossier\Projet_Csharp\obj\Debug\MainWindow.baml
+C:\Users\flavi\Desktop\Nouveau dossier\Projet_Csharp\obj\Debug\Projet_Csharp.g.resources
+C:\Users\flavi\Desktop\Nouveau dossier\Projet_Csharp\obj\Debug\Projet_Csharp.Properties.Resources.resources
+C:\Users\flavi\Desktop\Nouveau dossier\Projet_Csharp\obj\Debug\Projet_Csharp.csproj.GenerateResource.cache
+C:\Users\flavi\Desktop\Nouveau dossier\Projet_Csharp\obj\Debug\Projet_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Desktop\Nouveau dossier\Projet_Csharp\obj\Debug\Projet_Csharp.exe
+C:\Users\flavi\Desktop\Nouveau dossier\Projet_Csharp\obj\Debug\Projet_Csharp.pdb
+C:\Users\flavi\Desktop\ProjetCsharp_PEIXOTO_Flavio_B1A\Projet_Csharp\bin\Debug\Projet_Csharp.exe.config
+C:\Users\flavi\Desktop\ProjetCsharp_PEIXOTO_Flavio_B1A\Projet_Csharp\bin\Debug\Projet_Csharp.exe
+C:\Users\flavi\Desktop\ProjetCsharp_PEIXOTO_Flavio_B1A\Projet_Csharp\bin\Debug\Projet_Csharp.pdb
+C:\Users\flavi\Desktop\ProjetCsharp_PEIXOTO_Flavio_B1A\Projet_Csharp\obj\Debug\Projet_Csharp.csprojAssemblyReference.cache
+C:\Users\flavi\Desktop\ProjetCsharp_PEIXOTO_Flavio_B1A\Projet_Csharp\obj\Debug\MainWindow.g.cs
+C:\Users\flavi\Desktop\ProjetCsharp_PEIXOTO_Flavio_B1A\Projet_Csharp\obj\Debug\App.g.cs
+C:\Users\flavi\Desktop\ProjetCsharp_PEIXOTO_Flavio_B1A\Projet_Csharp\obj\Debug\Projet_Csharp_MarkupCompile.cache
+C:\Users\flavi\Desktop\ProjetCsharp_PEIXOTO_Flavio_B1A\Projet_Csharp\obj\Debug\Projet_Csharp_MarkupCompile.lref
+C:\Users\flavi\Desktop\ProjetCsharp_PEIXOTO_Flavio_B1A\Projet_Csharp\obj\Debug\MainWindow.baml
+C:\Users\flavi\Desktop\ProjetCsharp_PEIXOTO_Flavio_B1A\Projet_Csharp\obj\Debug\Projet_Csharp.g.resources
+C:\Users\flavi\Desktop\ProjetCsharp_PEIXOTO_Flavio_B1A\Projet_Csharp\obj\Debug\Projet_Csharp.Properties.Resources.resources
+C:\Users\flavi\Desktop\ProjetCsharp_PEIXOTO_Flavio_B1A\Projet_Csharp\obj\Debug\Projet_Csharp.csproj.GenerateResource.cache
+C:\Users\flavi\Desktop\ProjetCsharp_PEIXOTO_Flavio_B1A\Projet_Csharp\obj\Debug\Projet_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Desktop\ProjetCsharp_PEIXOTO_Flavio_B1A\Projet_Csharp\obj\Debug\Projet_Csharp.exe
+C:\Users\flavi\Desktop\ProjetCsharp_PEIXOTO_Flavio_B1A\Projet_Csharp\obj\Debug\Projet_Csharp.pdb
